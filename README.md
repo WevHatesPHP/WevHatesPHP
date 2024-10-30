@@ -20,4 +20,4 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"/>
 </div><br/><hr/><br/>
 
-![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compactColor=balck)
+![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compact&Color=balck)
