@@ -1,9 +1,9 @@
  
-## Hi, my nickname is Wev, the future Full Stack, Game Dev Indie and AI Developer!🔥🔥🔥
+<h2><b>Hi, my nickname is Wev, the future Full Stack, Game Dev Indie and AI Developer!🔥🔥🔥</b></h2>
 
 ![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=radical)
 
-## ・The ones I've already learned... 💡
+<h2><i>・The ones I've already learned... 💡</i></h2>
 
 <div style="display: inline block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black"/>
