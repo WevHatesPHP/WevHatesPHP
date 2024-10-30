@@ -1,5 +1,5 @@
  
-<h2><u>Hi, my nickname is Wev, the future Full Stack, Game Dev Indie and AI Developer!🔥🔥🔥</u></h2>
+<h1>Hi, my nickname is Wev, the future Full Stack, Game Dev Indie and AI Developer!🔥🔥🔥</h1>
 
 ![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=radical)
 
