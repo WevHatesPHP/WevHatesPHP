@@ -1,7 +1,7 @@
 
 ## Hi, my nickname is Wev, the future Full Stack, Game Dev Indie and AI Developer!🔥
 
-![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=onedark)
+![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=cobalt)
 
 ## The ones I've already learned... 💡
 
