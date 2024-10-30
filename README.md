@@ -1,7 +1,7 @@
 
 ## Hi, my nickname is Wev, the future Full Stack, Game Dev Indie and AI Developer!🔥
 
-![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237_icons=true&theme=synthwave)
+![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=synthwave)
 
 ## The ones I've already learned... 💡
 
@@ -20,4 +20,4 @@
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
-![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237=compact)
+![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compact)
