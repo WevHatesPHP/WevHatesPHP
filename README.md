@@ -11,6 +11,7 @@
 </div>    
 
 ## What I will learn in the future... 📚
+<body>
 <style>
     border-radius: 5px;
 </style>
@@ -22,5 +23,5 @@
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/><hr/><br/>
-
+</body>
 ![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compact)
