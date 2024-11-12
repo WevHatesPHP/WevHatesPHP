@@ -20,7 +20,8 @@
     <img align="center" alt="kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
     <img align="center" alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center" alt="r" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"/> 
-</div><br/><hr/><br/>
+</div>
+<br>
 
 ![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compact)
 
