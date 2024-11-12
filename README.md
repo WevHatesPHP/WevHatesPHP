@@ -14,10 +14,10 @@
 
 <div style="display: inline block"><br/>
     <img align="center" alt="js" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="sql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
     <img align="center" alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
     <img align="center" alt="lua" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
     <img align="center" alt="kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+    <img align="center" alt="sql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
     <img align="center" alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center" alt="r" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"/> 
 </div>
