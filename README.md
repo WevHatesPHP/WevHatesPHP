@@ -1,7 +1,5 @@
 <h1>🌌About Me🌌</h1>
 <br>
-<hr>
-<br>
 <h3>🔥Hi, my nickname is Wev! I have 17 years old and I live in Brazil!🔥</h3>
 
 ![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight)
