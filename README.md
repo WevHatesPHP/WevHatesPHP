@@ -28,3 +28,4 @@
 
 <h2>📃Note:</h2>
 <p>I intend to make websites in order to just improve my knowledge and for fun, and study more and more to be a Fullstack, I want to make Discord Bots, create Indie games and start playing with FL Studio, finally playing with AI!</p>
+<br>
