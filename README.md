@@ -27,5 +27,5 @@
 ![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compact)
 
 <h2>📃Note:</h2>
-<p>I intend to make websites in order to just improve my knowledge and for fun, and study more and more to be a Fullstack, I want to make Discord Bots, create Indie games and start playing with FL Studio, finally playing with AI!</p>
+<p>I intend to make websites just to improve my knowledge and for fun, in addition to studying more and more to be a Fullstack and also create Mobile Applications and become professional in both professions, I want to create Discord Bots, create Indie games and start playing with FL Studio, finally playing with AI!</p>
 <br>
