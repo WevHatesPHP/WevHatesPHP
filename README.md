@@ -9,7 +9,7 @@
 <div style="display: inline block"><br/>
     <img align="center" alt="html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
     <img align="center" alt="css" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-    <img align="center" alt="js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
+    <img align="center" alt="js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
 </div>    
 <h2><i>・Studying... </i>📚</h2>
 
