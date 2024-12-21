@@ -5,6 +5,7 @@
 ![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight)
 
 <h2><i>・Domain... </i>💡</h2>
+<b>Programming languages I'm going to learn.</b>
 
 <div style="display: inline block"><br/>
     <img align="center" alt="html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
@@ -12,6 +13,7 @@
     <img align="center" alt="js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
 </div>    
 <h2><i>・Studying... </i>📚</h2>
+<b>Programming languages that I am learning or will learn!</b>
 
 <div style="display: inline block"><br/>
     <img align="center" alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
@@ -24,6 +26,7 @@
 </div>
 
 <h2><i>・Other technologies... </i>💻</h2>
+<b>Tools I use.</b>
 
 <div style="display: inline block"><br/>
     <img align="center" alt="linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
