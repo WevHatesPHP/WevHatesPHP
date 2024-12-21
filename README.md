@@ -40,8 +40,6 @@
 <br>
 <br>
 
-![Wev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wev237&show=compact)
-
 <h2>📃Note:</h2>
 <p>I intend to make websites just to improve my knowledge and for fun initially, in addition to studying more and more to be a Fullstack and also create Mobile Applications and become a professional in both professions, I want to create Bots for Discord, create Indie games and start creating music in FL Studio as a hobby, finally study about AI to create several of them!</p>
 <br>
