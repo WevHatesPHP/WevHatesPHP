@@ -16,7 +16,7 @@
 <b>Programming languages that I am learning or will learn!</b>
 
 <div style="display: inline block"><br/>
-    <img align="center" alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+    <link rel="stylesheet" type='text/css' width="45px" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img align="center" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
     <img align="center" alt="go" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
     <img align="center" alt="kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
