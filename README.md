@@ -20,10 +20,8 @@
     <img align="center" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
     <img align="center" alt="go" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
     <img align="center" alt="kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+    <img align="center" alt="Crystal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg"/>
     <img align="center" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-    <img align="center" alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="center" alt="r" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"/> 
-</div>
 
 <h2><i>・Other technologies... </i>💻</h2>
 <b>Tools I use.</b>
@@ -44,7 +42,7 @@
 <br>
 
 <h2>📃Note:</h2>
-<p>I intend to make websites just to improve my knowledge and for fun initially, in addition to studying more and more to be a Fullstack and also create Mobile Applications and become a professional in both professions, I want to create Bots for Discord, create Indie games and start creating music in FL Studio as a hobby, finally study about AI to create several of them!</p>
+<p>I intend to make websites just to improve my knowledge for fun initially, but I intend to study more and more to be a Fullstack, also create Mobile Applications, and create Databases and become professional and in both professions, I want to create Bots for Discord, create Indie games and start creating music in FL Studio as a hobby, and in the future I will look for more areas of programming and learn more and more!</p>
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=Wev237&color=blueviolet)
