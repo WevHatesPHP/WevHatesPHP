@@ -1,9 +1,14 @@
-<h1>🌌About Me🌌</h1>
+<p>ㅤㅤㅤㅤㅤㅤ
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=💥Hi,+my+nickname+is+Wev!🔥" alt="Typing SVG">
+  </a>
+</p>
+
+<img align="center" src="https://cdn.discordapp.com/attachments/1165135807414276167/1329218353595813992/1736980749487.gif?ex=67898a8f&is=6788390f&hm=5462204a46110ce30d5939a31b68edaa81314586202950a058ab815e71796e17&">
+
+# 🌌About Me🌌
 <br>
-<h3>🔥Hi, my nickname is Wev! I have 17 years old!🔥</h3>
-
-![Wev GitHub stats](https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight)
-
+<img align="center" width="642px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 <h2><i>・Domain... </i>💡</h2>
 <b>Programming languages I'm going to learn.</b>
 
