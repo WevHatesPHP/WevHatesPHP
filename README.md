@@ -10,7 +10,7 @@
 <br>
 <img align="center" width="620px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 <h2><i>・Domain... </i>💡</h2>
-<b>Programming languages I'm going to learn.</b>
+<b>Programming languages ​​I have learned.</b>
 
 <div style="display: inline block"><br/>
     <img align="center" alt="html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
