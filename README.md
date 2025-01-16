@@ -1,14 +1,14 @@
-<p>ㅤㅤ ㅤㅤ
+<p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70a3f8&random=false&width=435&height=40&lines=🔥Hi,+my+nickname+is+Wev!🐘" alt="Typing SVG">
   </a>
 </p>
 
-<img align="center" width="620px" src="https://cdn.discordapp.com/attachments/1165135807414276167/1329218353595813992/1736980749487.gif?ex=67898a8f&is=6788390f&hm=5462204a46110ce30d5939a31b68edaa81314586202950a058ab815e71796e17&">
+<img align="center" width="1200px" src="https://cdn.discordapp.com/attachments/1165135807414276167/1329218353595813992/1736980749487.gif?ex=67898a8f&is=6788390f&hm=5462204a46110ce30d5939a31b68edaa81314586202950a058ab815e71796e17&">
 
-# ㅤ ㅤ ㅤ ㅤㅤ 🌌 About Me 🌌
+<h1 align="center">🌌 About Me 🌌</h1>
 <br>
-<img align="center" width="620px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
+<img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 <h2><i>・Domain... </i>💡</h2>
 <b>Programming languages ​​I have learned.</b>
 
@@ -49,4 +49,5 @@
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=Wev237&color=blueviolet)
+
 
