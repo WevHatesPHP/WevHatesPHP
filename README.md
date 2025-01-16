@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<img align="center" width="630px" src="https://cdn.discordapp.com/attachments/1165135807414276167/1329218353595813992/1736980749487.gif?ex=67898a8f&is=6788390f&hm=5462204a46110ce30d5939a31b68edaa81314586202950a058ab815e71796e17&">
+<img align="center" width="625px" src="https://cdn.discordapp.com/attachments/1165135807414276167/1329218353595813992/1736980749487.gif?ex=67898a8f&is=6788390f&hm=5462204a46110ce30d5939a31b68edaa81314586202950a058ab815e71796e17&">
 
 # ㅤ ㅤ ㅤ ㅤㅤ 🌌 About Me 🌌
 <br>
-<img align="center" width="630px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
+<img align="center" width="625px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 <h2><i>・Domain... </i>💡</h2>
 <b>Programming languages I'm going to learn.</b>
 
