@@ -6,7 +6,7 @@
 
 <img align="center" src="https://cdn.discordapp.com/attachments/1165135807414276167/1329218353595813992/1736980749487.gif?ex=67898a8f&is=6788390f&hm=5462204a46110ce30d5939a31b68edaa81314586202950a058ab815e71796e17&">
 
-# ㅤ ㅤ ㅤㅤㅤ 🌌 About Me 🌌
+# ㅤ ㅤ ㅤㅤㅤ🌌 About Me 🌌
 <br>
 <img align="center" width="642px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 <h2><i>・Domain... </i>💡</h2>
