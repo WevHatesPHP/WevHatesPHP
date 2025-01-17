@@ -9,6 +9,9 @@
 <h1 align="center">🌌 About Me 🌌</h1>
 <br>
 <img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
+
+<img align="center" width="25" https://komarev.com/ghpvc/?username=Wev237&color=blueviolet)
+
 <h2><i>・Domain... </i>💡</h2>
 <b>Programming languages ​​I have learned.</b>
 
@@ -47,7 +50,5 @@
 <h2>📃Note:</h2>
 <p>I intend to make websites just to improve my knowledge for fun initially, but I intend to study more and more to be a Fullstack, also create Mobile Applications, and create Databases and become professional and in both professions, I want to create Bots for Discord, create Indie games and start creating music in FL Studio as a hobby, and in the future I will look for more areas of programming and learn more and more!</p>
 <br>
-
-![Views](https://komarev.com/ghpvc/?username=Wev237&color=blueviolet)
 
 
