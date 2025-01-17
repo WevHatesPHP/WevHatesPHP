@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<h2>📃Note:</h2>
+<h2 align="center" >📃Note:</h2>
 <p>I intend to make websites just to improve my knowledge for fun initially, but I intend to study more and more to be a Fullstack, also create Mobile Applications, and create Databases and become professional and in both professions, I want to create Bots for Discord, create Indie games and start creating music in FL Studio as a hobby, and in the future I will look for more areas of programming and learn more and more!</p>
 <br>
 
