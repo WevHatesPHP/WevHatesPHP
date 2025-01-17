@@ -10,7 +10,7 @@
 <br>
 <img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 
-<img align="center" width="25" src="https://komarev.com/ghpvc/?username=Wev237&color=blueviolet">
+<img align="center" width="25px" src="https://komarev.com/ghpvc/?username=Wev237&color=blueviolet">
 
 <h2><i>・Domain... </i>💡</h2>
 <b>Programming languages ​​I have learned.</b>
