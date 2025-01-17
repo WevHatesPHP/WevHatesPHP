@@ -11,7 +11,7 @@
 <img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=Wev237&show_icons=true&theme=tokyonight">
 
 <p align="center" >
-<img align="center" width="105px" src="https://komarev.com/ghpvc/?username=Wev237&color=blueviolet">
+<img align="center" width="125px" src="https://komarev.com/ghpvc/?username=Wev237&color=blueviolet">
 </p>
 
 <h2><i>・Domain... </i>💡</h2>
