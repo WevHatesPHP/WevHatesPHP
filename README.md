@@ -32,6 +32,7 @@
     <img align="center" alt="kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
     <img align="center" alt="Crystal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg"/>
     <img align="center" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+    <img align="center" alt="galaxy" width="55px" src="https://cdn.discordapp.com/attachments/1165135807414276167/1330340856267276378/RI4jBpn0eOKnAr7fggzNbRkauznn7SxwsinyYsdc65rraXoMmaMkar0QlCayLM5rQkswHfhsMVFA6jSyC9wSdhiuqeWOyaWAfMfOEIAKOExErFwbJCF1ux5pKpEP7sd38angm71J34sqnw29H7vnmAPkDJ2dYSe7HgvrgF1LVsgPL2cychtRYHAaQFnwUgH70OyybJchSWfWZp4qsPbudSKqCk4d33l15QvLbPKlsmZ1Oj5XlAjO7yBSBdSXxDrlxLP2JFGPg0fwq8ohSK1OiYHgFtZFYULrdBrcvClUPhupB5V9s0r3rKH2BkgxG2QyhiHxbLMJRzEyvF32ENFKtjn6nH25nG8c5RB5AN6aIwypJDHJY7UVzwmSF2N8m1o0ay7XxRTRL3W6UrKgK7OAd3yZZx0TebaFnXhUqL0bzX9OQ6l14hCYrevjhJlogRLvDzRA8BFQ5SrBjIk9oj3JwVhNhCMVSRdZOhS05rGXIL5YYpMc8RKoN6hUccL2..png?ex=678d9ff8&is=678c4e78&hm=09f79b44f04afa9d2824d94b305a8f3305110367f613a0bc0ef9a3433f3a9c16&"/>
 
 <h2><i>・Other technologies... </i>💻</h2>
 <b>Tools I use.</b>
