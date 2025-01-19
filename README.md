@@ -1,4 +1,4 @@
-<p align="center">
+4<p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70a3f8&random=false&width=435&height=40&lines=🔥Hi,+my+nickname+is+Wev!🐘" alt="Typing SVG">
   </a>
@@ -45,7 +45,7 @@
     <img align="center" alt="laravel" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="flstudio" width="42px" src="https://cdn.discordapp.com/attachments/1165135807414276167/1330419462452547675/5C00GLiUjb8b26yUMGuJwFAd6hmQAMHZ1AVMbHt1NTqzucABCz9OCNdJw4FzVMibhgAj0AzCq3YHQa1n983KKj75oS4SJPe746cF6pL7zbVnJgwAJ9IewapI2zs6neo2ogzXqo0R5O8YO6rhaCrnCZ4s7ImuUhNpo1oTNDnP5O59QBCwnmNeXFG8eJi2cfCBMOnnArTjhNHatwEuuy1WzPptubATGDQtir7IlP4MoGUVFd0TpTIScc0eXORLk3icijTd4hN0Z5TPIlCaopcLy9ixmOxeWAhM9A5rz2Cy5Tb9V6rnYU6KFm5O0OTai2seG1WTdxBjR9TMp3TTjy2Co7qLuO2dc0Mg0A5ykk88dfUwfYO16sIT2zr7zfn9Fosbz0anBSseqANhtr5gtVcAiFka3yN5kdIlnLPtRHeqNgqZfiBU3YrYdw3gR6QOLNLALHTXAWQ1aL67aUbcoKtXP4RhRrpsYZPLlyPSb2N5uVX1psmDRVEmir7Xmgys..png?ex=678de92d&is=678c97ad&hm=4d6352288da8e665a52e679ece95be0e6805b5b40d56b0ee5a86fe3813eaf9ed&" />
     <img align="center" alt="unity" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
-    <img align="center" alt="godot" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+    <img align="center" alt="godot" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
     
 </div>
 <br>
