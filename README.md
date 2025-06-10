@@ -19,12 +19,12 @@
     <img align="center" alt="html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
     <img align="center" alt="css" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
     <img align="center" alt="js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
+    <img align="center" alt="php" width="54px" src="https://files.catbox.moe/2h6uyj.png"/>
 </div>    
 <h2><i>・Studying... </i></h2>
 <b>Programming languages that I am learning or will learn!</b>
 
 <div style="display: inline block"><br/>
-    <img align="center" alt="php" width="54px" src="https://files.catbox.moe/2h6uyj.png"/>
     <img align="center" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
     <img align="center" alt="go" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
     <img align="center" alt="kotlin" width="42px" src="https://files.catbox.moe/7of7km.png"/>
