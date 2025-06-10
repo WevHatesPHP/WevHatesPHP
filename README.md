@@ -1,7 +1,5 @@
 <p alinhar="centro">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&peso=600&tamanho=25&pause=1000&color=001DF7&centre=true&larga=435&linhas=%F0%9F%94%A5Hi%2C+my+name's+Wev!%F0%9F%90%98" alt="Digitando SVG" />
-  </a>
+
 </p> 
 
 <img alinhar="centro" largura="1200px" src="https://files.catbox.moe/gja44n.gif">
