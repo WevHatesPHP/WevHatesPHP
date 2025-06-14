@@ -9,7 +9,9 @@
 <img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=WevHatesPHP&show_icons=true&theme=tokyonight">
 
 <p align="center" >
-<img align="center" width="145px" src="https://komarev.com/ghpvc/?username=WevHatesPHP&color=blueviolet">
+    <b>
+        <img align="center" width="145px" src="https://komarev.com/ghpvc/?username=WevHatesPHP&color=blueviolet">    
+    </b>
 </p>
 
 <h2><i>・Domain... </i></h2>
