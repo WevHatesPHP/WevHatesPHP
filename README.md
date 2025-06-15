@@ -51,5 +51,7 @@
 </div>
 <br>
 <h2 align="center" > Note </h2>
-<p><b>I intend to make websites just to improve my knowledge for fun initially, but I intend to study more and more to be a Fullstack, also create Mobile Applications, and create Databases and become professional and in both professions, I want to create Bots for Discord, create Indie games and start creating music in FL Studio as a hobby, and in the future I will look for more areas of programming and learn more and more!</b></p>
+<p><b>I plan to make websites mainly to improve my skills and have fun at first, but I'm going to study more and more to become a Fullstack developer. I also want to develop mobile apps, build databases, and become a professional in both fields. On top of that, I want to create Discord bots, develop indie games, and start making music in FL Studio as a hobby. In the future, I’ll explore even more areas of programming and keep learning non-stop.
+
+I also have other dreams: becoming a skateboarder, working as a barber, being a music producer using FL Studio, and playing drums and bass.!</b></p>
 <br>
