@@ -10,7 +10,7 @@
 
 <p align="center" >
     <b>
-        <img align="center" width="145px" src="https://komarev.com/ghpvc/?username=WevHatesPHP&color=blueviolet">    
+        <img align="center" width="145px" src="https://komarev.com/ghpvc/?username=$Wevas&color=blueviolet">    
     </b>
 </p>
 
