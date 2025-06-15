@@ -55,3 +55,4 @@
 
 I also have other dreams: becoming a skateboarder, working as a barber, producing music with FL Studio, playing drums and bass, and improving my English (my English is kinda bad) as well as learning Russian — maybe even more languages. I just wanna keep learning new things non-stop!</b></p>
 <br>
+<img align="center" width="1200px" src="https://i.imgur.com/10mzd39.gif">
