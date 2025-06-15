@@ -4,7 +4,7 @@
 
 <img align="center" width="1200px" src="https://files.catbox.moe/gja44n.gif">
 
-<h1 align="center"> About Me </h1>
+<h1 align="center"> ⭐About Me💤</h1>
 <br>
 <img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=WevHatesPHP&show_icons=true&theme=tokyonight">
 
@@ -14,7 +14,7 @@
     </b>
 </p>
 
-<h2><i>・Domain... </i></h2>
+<h2><i>💡・Domain... </i></h2>
 <b>Programming languages ​​I have learned.</b>
 
 <div style="display: inline block"><br/>
@@ -23,7 +23,7 @@
     <img align="center" alt="js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
     <img align="center" alt="php" width="54px" src="https://files.catbox.moe/2h6uyj.png"/>
 </div>    
-<h2><i>・Studying... </i></h2>
+<h2><i>🚀・Studying... </i></h2>
 <b>Programming languages that I am learning or will learn!</b>
 
 <div style="display: inline block"><br/>
@@ -35,7 +35,7 @@
     <img align="center" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
     <img align="center" alt="galaxy" width="55px" src="https://files.catbox.moe/d9bumh.png"/>
 
-<h2><i>・Other technologies... </i></h2>
+<h2><i>💻・Other technologies... </i></h2>
 <b>Tools I use.</b>
 
 <div style="display: inline block"><br/>
@@ -50,7 +50,7 @@
     
 </div>
 <br>
-<h2 align="center" > Note </h2>
+<h2 align="center" >📝Note📝</h2>
 <p><b>I plan to build websites mainly to improve my skills and have fun at first, but I’m going to study harder and harder to become a Fullstack developer. I also want to develop mobile apps, build databases, and become a professional in both fields. Besides that, I want to create Discord bots, develop indie games, and start making music in FL Studio as a hobby. In the future, I’ll explore even more areas of programming and keep learning more and more!
 
 I also have other dreams: becoming a skateboarder, working as a barber, producing music with FL Studio, playing drums and bass, and improving my English (my English is kinda bad) as well as learning Russian — maybe even more languages. I just wanna keep learning new things non-stop!</b></p>
