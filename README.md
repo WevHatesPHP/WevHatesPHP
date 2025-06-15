@@ -50,8 +50,7 @@
     
 </div>
 <br>
-<h2 align="center" >⭐Note⭐</h2>
-<p align="center">
+<h2 align="center" >⭐Note⭐</h2><p align="center">
     <img align="center" width="50px" src="https://files.catbox.moe/yjxlsi.gif">
 </p>
 <p><b>I plan to build websites mainly to improve my skills and have fun at first, but I’m going to study harder and harder to become a Fullstack developer. I also want to develop mobile apps, build databases, and become a professional in both fields. Besides that, I want to create Discord bots, develop indie games, and start making music in FL Studio as a hobby. In the future, I’ll explore even more areas of programming and keep learning more and more!
