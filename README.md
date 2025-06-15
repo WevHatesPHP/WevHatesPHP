@@ -56,5 +56,5 @@
 
 I also have other dreams: becoming a skateboarder, working as a barber, producing music with FL Studio, playing drums and bass, and improving my English (my English is kinda bad) as well as learning Russian — maybe even more languages. I just wanna keep learning new things non-stop!</b></p>
 <br>
-<p  align="center"><img align="center" width="30px" src="https://files.catbox.moe/qx6rvo.png">[My_Soundcloud](https://soundcloud.com/wevas86)</p>
+<p  align="center"><img align="center" width="30px" src="https://files.catbox.moe/qx6rvo.png"></p>
 <img align="center" width="1200px" src="https://i.imgur.com/10mzd39.gif">
