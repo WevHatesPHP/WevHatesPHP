@@ -6,7 +6,7 @@
 
 <h1 align="center">💤About Me💤</h1>
 <br>
-<img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=WevHatesPH&show_icons=true&theme=tokyonight">
+<img align="center" width="1200px" src="https://github-readme-stats.vercel.app/api?username=WevHatesPHP&show_icons=true&theme=tokyonight">
 
 <p align="center" >
     <b>
