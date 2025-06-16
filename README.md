@@ -59,7 +59,7 @@ I also have other dreams: becoming a skateboarder, working as a barber, producin
 <img src="https://files.catbox.moe/lkhivy.png" usemap="#image-map" width="35px">
 
 <map name="image-map">
-    <area target="_self" alt="Wevas86 | Soundcloud" title="Wevas86 | Soundcloud" href="https://soundcloud.com/wevas86" coords="-1,-1,511,511" shape="rect">
+    <area target="_blanck" alt="Wevas86 | Soundcloud" title="Wevas86 | Soundcloud" href="https://soundcloud.com/wevas86" coords="-1,-1,511,511" shape="rect">
 </map>
 
 <img align="center" width="1200px" src="https://i.imgur.com/10mzd39.gif">
