@@ -56,10 +56,10 @@
 
 I also have other dreams: becoming a skateboarder, working as a barber, producing music with FL Studio, playing drums and bass, and improving my English (my English is kinda bad) as well as learning Russian — maybe even more languages. I just wanna keep learning new things non-stop!</b></p>
 <p align="center">
-<img src="https://files.catbox.moe/lkhivy.png" usemap="#image-map">
+<img src="https://files.catbox.moe/lkhivy.png" usemap="#image-map" width="35">
 
 <map name="image-map">
-    <area target="" alt="Wevas86 | Soundcloud" title="Wevas86 | Soundcloud" href="https://soundcloud.com/wevas86" coords="-1,-1,511,511" shape="rect" width="35">
+    <area target="" alt="Wevas86 | Soundcloud" title="Wevas86 | Soundcloud" href="https://soundcloud.com/wevas86" coords="-1,-1,511,511" shape="rect">
 </map>
 </p>
 <img align="center" width="1200px" src="https://i.imgur.com/10mzd39.gif">
