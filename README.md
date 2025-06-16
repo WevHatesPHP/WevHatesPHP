@@ -55,10 +55,5 @@
 <p><b>I plan to build websites mainly to improve my skills and have fun at first, but I’m going to study harder and harder to become a Fullstack developer. I also want to develop mobile apps, build databases, and become a professional in both fields. Besides that, I want to create Discord bots, develop indie games, and start making music in FL Studio as a hobby. In the future, I’ll explore even more areas of programming and keep learning more and more!
 
 I also have other dreams: becoming a skateboarder, working as a barber, producing music with FL Studio, playing drums and bass, and improving my English (my English is kinda bad) as well as learning Russian — maybe even more languages. I just wanna keep learning new things non-stop!</b></p>
-
-<img src="https://files.catbox.moe/lkhivy.png" usemap="#image-map" width="35px">
-
-<map name="image-map">
-    <area target="_parent" alt="Wevas86 | Soundcloud" title="Wevas86 | Soundcloud" href="https://soundcloud.com/wevas86" coords="257,257,331" shape="circle">
-</map>
+<p  align="center"><img align="center" width="35px" src="https://files.catbox.moe/lkhivy.png" alt="https://soundcloud.com/wevas86"> [My Soundcloud](https://soundcloud.com/wevas86)<b></b></p>
 <img align="center" width="1200px" src="https://i.imgur.com/10mzd39.gif">
