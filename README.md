@@ -33,8 +33,8 @@
     <img align="center" alt="kotlin" width="42px" src="https://files.catbox.moe/7of7km.png"/>
     <img align="center" alt="Crystal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg"/>
     <img align="center" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-    <img align="center" alt="galaxy" width="55px" src="https://files.catbox.moe/d9bumh.png"/>
-
+    <img align="center" alt="rust" width="55px" src="https://files.catbox.moe/712nh3.png"/>
+<!--https://files.catbox.moe/d9bumh.png-->
 <h2>💻<i>・Other technologies... </i></h2>
 <b>Tools I use.</b>
 
