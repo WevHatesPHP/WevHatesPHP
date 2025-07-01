@@ -28,13 +28,13 @@
 
 <div style="display: inline block"><br/>
     <img align="center" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-    <img align="center" alt="dart" width="30px" src="https://github.com/cncf/landscape/blob/master/hosted_logos/dart.svg"/> 
-    <img align="center" alt="rescript" width="38px" src="https://files.catbox.moe/pyp7rt.png"/>
-    <img align="center" alt="go" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-    <img align="center" alt="kotlin" width="42px" src="https://files.catbox.moe/7of7km.png"/>
-    <img align="center" alt="crystal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg"/>
+    <img align="center" alt="dart" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/> 
+    <img align="center" alt="rescript" width="42px" src="https://files.catbox.moe/pyp7rt.png"/>
+    <img align="center" alt="go" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
+    <img align="center" alt="kotlin" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/>
+    <img align="center" alt="crystal" width="52px" src="https://files.catbox.moe/58iv2p.png"/>
     <img align="center" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-    <img align="center" alt="rust" width="55px" src="https://files.catbox.moe/712nh3.png"/>
+    <img align="center" alt="rust" width="52px" src="https://files.catbox.moe/712nh3.png"/>
 <!--https://files.catbox.moe/d9bumh.png-->
 <h2>💻<i>・Other technologies... </i></h2>
 <b>Tools I use.</b>
