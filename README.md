@@ -29,9 +29,10 @@
 <div style="display: inline block"><br/>
     <img align="center" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
     <img align="center" alt="dart" width="30px" src="https://github.com/cncf/landscape/blob/master/hosted_logos/dart.svg"/> 
+    <img align="center" alt="rescript" width="38px" src="https://files.catbox.moe/mdymlu.png"/>
     <img align="center" alt="go" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
     <img align="center" alt="kotlin" width="42px" src="https://files.catbox.moe/7of7km.png"/>
-    <img align="center" alt="Crystal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg"/>
+    <img align="center" alt="crystal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg"/>
     <img align="center" alt="lua" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
     <img align="center" alt="rust" width="55px" src="https://files.catbox.moe/712nh3.png"/>
 <!--https://files.catbox.moe/d9bumh.png-->
@@ -47,7 +48,8 @@
     <img align="center" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align="center" alt="meteor" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meteor/meteor-original.svg" />
     <img align="center" alt="laravel" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-    <img align="center" alt="flstudio" width="42px" src="https://files.catbox.moe/uk2ymb.png" />
+    <img align="center" alt="wasm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg"/>
+    <img align="center" alt="flstudio" width="42px" src="https://files.catbox.moe/uk2ymb.png"/>
     <img align="center" alt="unity" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
     <img align="center" alt="godot" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
     
