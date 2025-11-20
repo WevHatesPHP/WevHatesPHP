@@ -29,7 +29,7 @@
 <div style="display: inline block"><br/>
     <img align="center" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
     <img align="center" alt="dart" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/> 
-    <img align="center" alt="haxe" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg"/>
+    <img align="center" alt="haxe" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg"/>
     <img align="center" alt="go" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
     <img align="center" alt="kotlin" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotlin_icon_%282016-2021%29.svg"/>
     <img align="center" alt="crystal" width="52px" src="https://files.catbox.moe/58iv2p.png"/>
