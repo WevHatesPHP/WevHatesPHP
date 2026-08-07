@@ -41,7 +41,6 @@
 
 <div style="display: inline block"><br/>
     <img align="center" alt="cachyos" width="42px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cachyos-linux.svg"/>
-    <img align="center" alt="Windows" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
     <img align="center" alt="vscode" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img align="center" alt="flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img align="center" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
